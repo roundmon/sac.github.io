@@ -4,7 +4,7 @@
 	"name": "Demo Gauge",
 	"description": "A gauge demo",
 	"newInstancePrefix": "Gauge",
-	"icon": "https://roundmon.github.io/sac.github.io/CustomWidget//icon.png",
+	"icon": "https://roundmon.github.io/sac.github.io/CustomWidget/icon.png",
 	"vendor": "Demo",
 	"eula": "EULA",
 	"license": "1.0",
@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://roundmon.github.io/sac.github.io/CustomWidget//box.js",
+			"url": "https://roundmon.github.io/sac.github.io/CustomWidget/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
